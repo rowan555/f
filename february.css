@@ -1,0 +1,34 @@
+﻿.hh{
+	background-image:url('hero.jpg');
+
+	background-size:100% 570px;
+	height:570px;
+	width:100%;
+	top:0;
+}
+li{ cursor:pointer;
+	text-transform:uppercase;
+	 color:white;
+	 float:left;
+	  margin-top:29px;
+	  margin-left:20px;
+	 font-size:14px;
+}
+li:hover{ 	color:#328FDC;
+}
+body{
+	bottom:0%;
+	right:0%;
+	left:0%;
+	top:0%;
+}
+i{
+	background-color:#211E1E;
+ color:white;
+}.demo{ margin-left:30px;
+	float:left;
+}
+.aa{
+	margin-right:70px;
+	
+}
